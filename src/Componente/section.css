@@ -1,0 +1,70 @@
+.container.h1{
+    color: #green;
+}
+#t1{
+    padding-top: 20px;
+    color: #193D19;
+}
+#paso1{
+    color: #193D19;
+    margin-right: 5%;
+    margin-left: 10%;
+    width: 50%;
+    padding: 5px;
+    column-gap: 1em;
+}
+#paso2{
+   color: #F1FBFB;
+   background-color: #195757;
+   padding-top: 25px;
+   padding-bottom: 20px; 
+}
+#figura{
+    margin-top: 40px;   
+}
+#paso3{
+    color: #195757;
+    padding-top: 30px;
+    margin-bottom: 30px; 
+}
+#paso4{
+    color: #173E3E;
+    background-color: #E4FA09;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+#paso4.row{
+    color: #173E3E;
+    column-gap: 100px;
+    column-rule: 3px dotted gray;
+    padding-top: -10px;    
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+#col1{
+    background-color: #FDFDF9;
+    padding-top: 20px;
+}
+#col2{
+    background-color: #FDFDF9;
+    padding-top: 20px;
+}
+#col3{
+    background-color: #FDFDF9;
+    padding-top: 20px;
+}
+#paso4 h3{
+  margin-top: 30px;
+  margin-bottom: 10px;  
+}
+#paso4 h4{
+  margin-top: 20px;
+  margin-bottom: 50px;  
+}
+#paso4 h5{
+  margin-top: 10px;
+  margin-bottom: 20px;  
+}
+#s1{
+    padding-bottom: -10%;
+}

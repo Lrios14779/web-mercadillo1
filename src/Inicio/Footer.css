@@ -1,0 +1,19 @@
+
+#footer{
+column-gap: 80px;
+column-rule: 4px dotted gray;
+background-color: #0B5345;
+color: #FDFEFE;
+margin-right: -110px;
+margin-left: -110px;
+margin-top: 120px; 
+}
+#footer h4{
+  margin-top: 20px;
+  margin-left: 100px;   
+}
+#footer h7{
+  margin-top: 300px;
+  margin-left: 100px;
+  margin-left: 100px;   
+}
